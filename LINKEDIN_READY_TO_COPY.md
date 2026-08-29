@@ -15,7 +15,7 @@
 ### 2. 📌 Headline (Copy & Paste)
 
 ```text
-AI & Data Science Student | Full-Stack & Python Developer | Building Web Applications & AI-Driven Tools | Open to Internships
+3rd Year B.Tech AI & DS Student at Indra Ganesan College of Engineering | Full-Stack & Python Developer | Open to Internships
 ```
 
 ---
@@ -23,9 +23,9 @@ AI & Data Science Student | Full-Stack & Python Developer | Building Web Applica
 ### 3. 📝 "About" Section (Copy & Paste Entire Block)
 
 ```text
-I am an undergraduate student pursuing my B.Tech in Artificial Intelligence & Data Science in Tamil Nadu, India. My focus lies at the intersection of practical software engineering, database design, and intelligent AI integration.
+I am a 3rd-year undergraduate student pursuing my B.Tech in Artificial Intelligence & Data Science (AI & DS) at Indra Ganesan College of Engineering in Tamil Nadu, India. My technical focus lies at the intersection of practical software engineering, database architecture, and intelligent AI integration.
 
-Rather than just studying theory, I learn best by building end-to-end, functional applications that solve real operational bottlenecks.
+Rather than just studying theory, I learn best by building end-to-end, functional web applications that solve real operational bottlenecks.
 
 What I enjoy working on:
 • Full-Stack Web Development: Building responsive, component-driven user interfaces in React (v18/v19), TypeScript, and Tailwind CSS, backed by robust Node.js and Express RESTful APIs.
@@ -49,7 +49,23 @@ Let's connect or discuss projects:
 
 ---
 
-### 4. ⭐ "Featured" Section (3 Links to Add)
+### 4. 🎓 Education Section (Add to LinkedIn Education)
+
+```text
+School / College: Indra Ganesan College of Engineering
+Degree: Bachelor of Technology - B.Tech
+Field of Study: Artificial Intelligence and Data Science (AI & DS)
+Dates Attended: 2022 - 2026 (Currently in 3rd Year)
+Location: Tiruchirappalli (Trichy), Tamil Nadu, India
+
+Relevant Coursework & Activities:
+• Data Structures & Algorithms, Machine Learning Foundations, Database Management Systems (PostgreSQL/SQL), Web Development.
+• Active builder of practical full-stack applications and AI-integrated campus solutions.
+```
+
+---
+
+### 5. ⭐ "Featured" Section (3 Links to Add)
 
 1. **VoterVerify — College Election Verification System**
    - **Link:** `https://voterverify-taupe.vercel.app`
@@ -66,7 +82,7 @@ Let's connect or discuss projects:
 
 ---
 
-### 5. 💼 Projects Section (Add via "Add profile section" -> "Add project")
+### 6. 💼 Projects Section (Add via "Add profile section" -> "Add project")
 
 #### Project 1: VoterVerify — College Election Student Verification System
 - **Project Name:** `VoterVerify — College Election Student Verification System`
@@ -118,7 +134,7 @@ What I Learned: 3D coordinate mathematics in Three.js, component lifecycle optim
 
 ---
 
-### 6. 💡 Top 5 Skills to Pin
+### 7. 💡 Top 5 Skills to Pin
 1. **Python (Programming Language)**
 2. **React.js**
 3. **SQL / PostgreSQL**
@@ -127,6 +143,6 @@ What I Learned: 3D coordinate mathematics in Three.js, component lifecycle optim
 
 ---
 
-### 7. 🔗 Custom URL
+### 8. 🔗 Custom URL
 Set your custom profile URL to:
 👉 **`linkedin.com/in/manikkavel-s`**

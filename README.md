@@ -53,10 +53,10 @@
   <tr>
     <td width="68%" valign="top">
       <p>
-        Hi there! I'm <b>Manikkavel S</b>, an <b>Artificial Intelligence & Data Science student</b> based in Tamil Nadu, India, with a passion for engineering full-stack web applications, interactive user interfaces, and integrating modern AI capabilities.
+        Hi there! I'm <b>Manikkavel S</b>, a <b>3rd Year B.Tech Artificial Intelligence & Data Science student</b> at <b>Indra Ganesan College of Engineering</b> (Tamil Nadu, India), with a passion for engineering full-stack web applications, interactive user interfaces, and integrating modern AI capabilities.
       </p>
       <ul>
-        <li>🎓 <b>Academics:</b> Pursuing <b>B.Tech in Artificial Intelligence & Data Science</b>.</li>
+        <li>🎓 <b>Academics:</b> 3rd Year <b>B.Tech in Artificial Intelligence & Data Science (AI & DS)</b> at <b>Indra Ganesan College of Engineering</b>.</li>
         <li>💻 <b>Full-Stack Development:</b> Building responsive, modular web applications using <b>React (v18/v19), TypeScript, JavaScript, Vite, Tailwind CSS, and Node.js/Express</b>.</li>
         <li>🤖 <b>AI Integration:</b> Integrating LLMs (such as the <b>Google Gemini API</b>) into practical workflows with custom prompt engineering, domain context injection, and safety guardrails.</li>
         <li>🗄️ <b>Databases & Backend:</b> Designing relational schemas, indexes, and secure authentication flows with <b>PostgreSQL, Supabase, and JWT</b>.</li>
