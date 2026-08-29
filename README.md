@@ -176,64 +176,62 @@ Database:    Supabase PostgreSQL with indexed query lookups
 
 ### 📂 More Real-World Projects
 
+<!-- PROJECTS:START -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💊 <a href="https://github.com/Manikkavel-S/medicare-pharmacy">MediCare Pharmacy & AI Assistant</a></h4>
+      <h4>🗳️ <a href="https://github.com/Manikkavel-S/medicare-pharmacy">medicare-pharmacy</a></h4>
+      <p>Modern healthcare platform with prescription upload workflow and Gemini AI customer assistant.</p>
       <p>
-        A comprehensive healthcare web platform with dynamic catalog management, prescription upload workflows, express delivery scheduling, and a <b>Gemini 1.5 Flash AI Assistant</b> with clinical safety guardrails.
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/⭐_Stars-0-0ea5e9?style=flat-square" alt="Stars" />
+        <img src="https://img.shields.io/badge/🍴_Forks-0-10b981?style=flat-square" alt="Forks" />
       </p>
       <p>
-        <b>Tech Stack:</b><br/>
-        <code>React 19</code> <code>Vite</code> <code>Gemini API</code> <code>Supabase</code> <code>Tailwind CSS</code> <code>Lucide React</code>
-      </p>
-      <p>
-        <a href="https://github.com/Manikkavel-S/medicare-pharmacy">🔗 View Repository</a>
+        <a href="https://github.com/Manikkavel-S/medicare-pharmacy" target="_blank">🔗 <b>Source Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/Manikkavel-S/manikkavel-portfolio">3D Interactive Portfolio & CMS</a></h4>
+      <h4>💊 <a href="https://github.com/Manikkavel-S/healthcare">healthcare</a></h4>
+      <p>Lightweight healthcare management interface built with React 19, Vite, and Supabase.</p>
       <p>
-        A modern interactive developer portfolio featuring 3D WebGL particle scenes, Command Palette (Ctrl+K) search, responsive animations, and a Supabase-backed content management dashboard.
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/⭐_Stars-0-0ea5e9?style=flat-square" alt="Stars" />
+        <img src="https://img.shields.io/badge/🍴_Forks-0-10b981?style=flat-square" alt="Forks" />
       </p>
       <p>
-        <b>Tech Stack:</b><br/>
-        <code>TypeScript</code> <code>React 19</code> <code>Three.js</code> <code>R3F</code> <code>Framer Motion</code> <code>Tailwind v4</code>
-      </p>
-      <p>
-        <a href="https://github.com/Manikkavel-S/manikkavel-portfolio">🔗 View Repository</a>
+        <a href="https://github.com/Manikkavel-S/healthcare" target="_blank">🔗 <b>Source Code</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/Manikkavel-S/healthcare">Zero-Hour Healthcare Platform</a></h4>
+      <h4>🌐 <a href="https://github.com/Manikkavel-S/voterverify">voterverify</a></h4>
+      <p>Secure physical election student verification platform with instant lookup and double-voting prevention.</p>
       <p>
-        A modern healthcare interface built with React 19, Vite, and Supabase integration, optimized with Oxlint linting and lightweight component architecture.
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/⭐_Stars-0-0ea5e9?style=flat-square" alt="Stars" />
+        <img src="https://img.shields.io/badge/🍴_Forks-0-10b981?style=flat-square" alt="Forks" />
       </p>
       <p>
-        <b>Tech Stack:</b><br/>
-        <code>React 19</code> <code>Vite</code> <code>Supabase</code> <code>Oxlint</code> <code>Tailwind CSS</code>
-      </p>
-      <p>
-        <a href="https://github.com/Manikkavel-S/healthcare">🔗 View Repository</a>
+        <a href="https://github.com/Manikkavel-S/voterverify" target="_blank">🔗 <b>Source Code</b></a> &nbsp;•&nbsp; <a href="https://voterverify-taupe.vercel.app" target="_blank">🌐 <b>Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/Manikkavel-S/voterverify">Election Backend & API Engine</a></h4>
+      <h4>🏥 <a href="https://github.com/Manikkavel-S/manikkavel-portfolio">manikkavel-portfolio</a></h4>
+      <p>Interactive 3D WebGL developer portfolio with Three.js, animations, and Supabase CMS.</p>
       <p>
-        High-throughput REST API backend powering real-time election logging, JWT token issuance, file uploads, and PostgreSQL transaction queries.
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/⭐_Stars-0-0ea5e9?style=flat-square" alt="Stars" />
+        <img src="https://img.shields.io/badge/🍴_Forks-0-10b981?style=flat-square" alt="Forks" />
       </p>
       <p>
-        <b>Tech Stack:</b><br/>
-        <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>JWT</code> <code>XLSX</code>
-      </p>
-      <p>
-        <a href="https://github.com/Manikkavel-S/voterverify/tree/main/server">🔗 View Backend Code</a>
+        <a href="https://github.com/Manikkavel-S/manikkavel-portfolio" target="_blank">🔗 <b>Source Code</b></a>
       </p>
     </td>
   </tr>
 </table>
+<!-- PROJECTS:END -->
 
 ---
 

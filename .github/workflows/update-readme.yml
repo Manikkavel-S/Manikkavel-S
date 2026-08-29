@@ -1,0 +1,46 @@
+name: Auto-Update Projects Section
+
+on:
+  schedule:
+    # Runs everyday at midnight UTC (00:00 UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger anytime from GitHub Actions UI
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Update Projects Script
+        run: node scripts/update-projects.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Manikkavel-S
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in README.md to commit."
+          else
+            git commit -m "chore(automated): update projects section with latest repositories [skip ci]"
+            git push
+          fi
