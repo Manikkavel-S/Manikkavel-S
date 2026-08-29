@@ -25,8 +25,11 @@
   <br/><br/>
 
   <!-- Social & Connect Badges -->
-  <a href="https://linkedin.com/in/sr-manikkavel" target="_blank">
+  <a href="https://www.linkedin.com/in/manikkavel-s-54b1763a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/manikkavel_s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
   </a>
   <a href="mailto:manikkavelsellappillai@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
@@ -55,7 +58,7 @@
       <ul>
         <li>🎓 <b>Academics:</b> Pursuing <b>B.Tech in Artificial Intelligence & Data Science</b>.</li>
         <li>💻 <b>Full-Stack Development:</b> Building responsive, modular web applications using <b>React (v18/v19), TypeScript, JavaScript, Vite, Tailwind CSS, and Node.js/Express</b>.</li>
-        <li>🤖 <b>AI Integration:</b> Integrating LLMs (like the <b>Google Gemini API</b>) into practical workflows with custom prompt engineering, domain context injection, and safety guardrails.</li>
+        <li>🤖 <b>AI Integration:</b> Integrating LLMs (such as the <b>Google Gemini API</b>) into practical workflows with custom prompt engineering, domain context injection, and safety guardrails.</li>
         <li>🗄️ <b>Databases & Backend:</b> Designing relational schemas, indexes, and secure authentication flows with <b>PostgreSQL, Supabase, and JWT</b>.</li>
         <li>✨ <b>Creative Web:</b> Exploring 3D graphics, physics simulations, and web animations with <b>Three.js, React Three Fiber, and Framer Motion</b>.</li>
         <li>🌱 <b>Philosophy:</b> Solving real-world problems with clean, maintainable code and continuous hands-on experimentation.</li>
@@ -254,8 +257,12 @@ Database:    Supabase PostgreSQL with indexed query lookups
 <div align="center">
   <p>Whether you'd like to collaborate on an open-source project, discuss AI & web development, or just say hello — feel free to reach out!</p>
 
-  <a href="https://linkedin.com/in/sr-manikkavel" target="_blank">
+  <a href="https://www.linkedin.com/in/manikkavel-s-54b1763a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/manikkavel_s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:manikkavelsellappillai@gmail.com">
