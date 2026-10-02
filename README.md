@@ -180,7 +180,19 @@ Database:    Supabase PostgreSQL with indexed query lookups
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗳️ <a href="https://github.com/Manikkavel-S/medicare-pharmacy">medicare-pharmacy</a></h4>
+      <h4>🗳️ <a href="https://github.com/Manikkavel-S/angular-coding-assistant">angular-coding-assistant</a></h4>
+      <p>Dynamic application and software solution developed by Manikkavel S.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/⭐_Stars-0-0ea5e9?style=flat-square" alt="Stars" />
+        <img src="https://img.shields.io/badge/🍴_Forks-0-10b981?style=flat-square" alt="Forks" />
+      </p>
+      <p>
+        <a href="https://github.com/Manikkavel-S/angular-coding-assistant" target="_blank">🔗 <b>Source Code</b></a> &nbsp;•&nbsp; <a href="https://angular-coding-assistant-manikkavel.netlify.app" target="_blank">🌐 <b>Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💊 <a href="https://github.com/Manikkavel-S/medicare-pharmacy">medicare-pharmacy</a></h4>
       <p>Modern healthcare platform with prescription upload workflow and Gemini AI customer assistant.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -191,8 +203,10 @@ Database:    Supabase PostgreSQL with indexed query lookups
         <a href="https://github.com/Manikkavel-S/medicare-pharmacy" target="_blank">🔗 <b>Source Code</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>💊 <a href="https://github.com/Manikkavel-S/healthcare">healthcare</a></h4>
+      <h4>🌐 <a href="https://github.com/Manikkavel-S/healthcare">healthcare</a></h4>
       <p>Lightweight healthcare management interface built with React 19, Vite, and Supabase.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -203,10 +217,8 @@ Database:    Supabase PostgreSQL with indexed query lookups
         <a href="https://github.com/Manikkavel-S/healthcare" target="_blank">🔗 <b>Source Code</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/Manikkavel-S/voterverify">voterverify</a></h4>
+      <h4>🏥 <a href="https://github.com/Manikkavel-S/voterverify">voterverify</a></h4>
       <p>Secure physical election student verification platform with instant lookup and double-voting prevention.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -217,8 +229,10 @@ Database:    Supabase PostgreSQL with indexed query lookups
         <a href="https://github.com/Manikkavel-S/voterverify" target="_blank">🔗 <b>Source Code</b></a> &nbsp;•&nbsp; <a href="https://voterverify-taupe.vercel.app" target="_blank">🌐 <b>Live Demo</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/Manikkavel-S/manikkavel-portfolio">manikkavel-portfolio</a></h4>
+      <h4>🚀 <a href="https://github.com/Manikkavel-S/manikkavel-portfolio">manikkavel-portfolio</a></h4>
       <p>Interactive 3D WebGL developer portfolio with Three.js, animations, and Supabase CMS.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -229,6 +243,7 @@ Database:    Supabase PostgreSQL with indexed query lookups
         <a href="https://github.com/Manikkavel-S/manikkavel-portfolio" target="_blank">🔗 <b>Source Code</b></a>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
